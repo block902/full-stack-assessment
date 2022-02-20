@@ -117,6 +117,16 @@
   margin: 0 auto;
 }
 
+.localeWrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.localeWrapper a {
+  margin: 0 4px;
+}
+
 .faqContainer {
   margin-top: 60px;
 }
